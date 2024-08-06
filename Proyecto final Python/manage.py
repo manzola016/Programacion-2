@@ -1,5 +1,5 @@
 
-# Manuel Azola - 32666091
+# Manuel Anzola - 32666091
 
 #!/usr/bin/env python
 """Django's command-line utility for administrative tasks."""
